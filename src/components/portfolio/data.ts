@@ -5,7 +5,7 @@ import studio2 from "@/assets/editing.png";
 import studio3 from "@/assets/camera.png";
 import gopinath from "@/assets/gopinath.mp4";
 import madan from "@/assets/madan.mp4";
-import shipmentFinal from "@/assets/shipmentfinal.mp4";
+import shipmentFinal from "@/assets/shipmentFinal.mp4";
 import tinywave from "@/assets/tiny wave.mp4";
 import gym from "@/assets/gym.mp4";
 import ad from "@/assets/ad.mp4";
